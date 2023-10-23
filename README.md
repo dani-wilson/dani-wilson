@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dani
-- 🌱 I’m currently learning Ruby, Ruby on Rails, HTML, CSS, etc ~!
+- 🌱 I’m currently learning Ruby, Ruby on Rails, HTML, CSS, and Python!
 - 📫 How to reach me: dwilson23@turing.edu
 - 🌻 Non-Tech-Related Interests: classical piano, art, crochet, nature, & books
 
